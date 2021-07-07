@@ -1,0 +1,25 @@
+.title_form{
+    width: 250px;
+}
+.description_form{
+    width: 350px;
+}
+
+.container{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+    float:inherit;
+}
+.submit{
+    width: 350px;
+    height: 50px;
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    background: url(http://placekitten.com/200/300);
+}
